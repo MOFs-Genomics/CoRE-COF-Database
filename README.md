@@ -1,1 +1,0 @@
-# CoRE-COF-Database
